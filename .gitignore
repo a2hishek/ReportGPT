@@ -1,3 +1,4 @@
 .env
 __pycache__/
-chroma_lanchain_db/
+chroma_langchain_db/
+rag_data/
