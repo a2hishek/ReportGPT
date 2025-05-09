@@ -1,10 +1,5 @@
-Here's a well-structured `README.md` file for your project, **ReportGPT** — a voice-enabled, multimodal medical assistant built with Streamlit and Gemini:
-
----
-
 ### 📄 `README.md`
 
-````markdown
 # 🧠 ReportGPT – AI-Powered Medical Assistant
 
 **ReportGPT** is a voice-enabled multimodal medical assistant app built with **Streamlit** and powered by **Google's Gemini API** via LangChain. It allows users to upload medical report images, get detailed AI-generated analysis, and chat in English or Hindi for further health explanations — even using voice!
@@ -91,4 +86,3 @@ streamlit run app.py
 * [LangChain](https://www.langchain.com/)
 * [Streamlit](https://streamlit.io/)
 
-```
