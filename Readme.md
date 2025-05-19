@@ -61,7 +61,26 @@ streamlit run app.py
 ```
 
 ---
+## Architecture:
 
+![image](https://github.com/user-attachments/assets/4a7e4861-9e2e-41a2-b139-657c48f18c47)
+
+---
+## User Interface:
+
+![Screenshot 2025-05-19 150559](https://github.com/user-attachments/assets/0be93dc3-4fd2-4d0a-a932-3eb8daedc3e3)
+
+---
+## Example Outputs:
+- **Example 1: Lipid Report Analysis:**
+
+![Screenshot 2025-05-19 135845](https://github.com/user-attachments/assets/ca6f9b80-8028-4bcd-8953-9cb67ae6bfde)
+
+- **Example 2: Mulitlingual Support:**
+  
+![Screenshot 2025-05-19 141004](https://github.com/user-attachments/assets/574fad6d-e20f-438a-a82c-55107358ae0b)
+
+---
 ## 📦 Dependencies
 
 * `streamlit`
