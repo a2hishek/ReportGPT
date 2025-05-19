@@ -20,7 +20,7 @@
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/reportgpt.git
+git clone https://github.com/a2hishek/ReportGPT.git
 cd reportgpt
 ````
 
